@@ -1,0 +1,432 @@
+BibID 	102
+Naslov	Formation of Hydroxamic Acids Promoted by Metal Ions : Interaction of Nitroso Group with Coordinated Carbonyl Group
+Autori	Radivoj, Denis ; Pilepić, Viktor ; Uršić, Stanko
+Izvornik	Croatica chemica acta (0011-1643) <strong>69</strong> (1996), 4; 1633-1638
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Glyoxylate; glyoxylic acid; hydroxamic acids; nitrosobenzene; Fe(III); catalysis; reaction mechanism
+Sažetak	Hydroxamic acids are formed in the interaction of nitroso group of substituted nitrosobenzenes with carbonyl group of glyoxylate coordinated on iron (III)ion.
+Projekt / tema	006142
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Kemija
+new_DB_entry
+BibID 	103
+Naslov	Ecological study of gas fields in the northern Adriatic9. Heavy metals and macroconstituents in sea water
+Autori	Zvonarić, Tomislav
+Izvornik	Acta Adriatica (0001-5113) <strong>37</strong> (1996), 1/2; 115-120
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, druga sekundarna publikacija, znanstveni
+Ključne riječi	Heavy metals; sea water; marine organisms
+Sažetak	In March 1986. the content of heavy metals and macroconstituents in sea water was analyzed in the Ivana field, as well as the content of heavy metals in fish and shellfish streching from the Ivana field to cove Štinjan near Pula. The content of heavy metals in sea water is slightly increased whereas the concentration of heavy metals in organisms is within limits of an unpolluted area.The analysis of macroconstituents showed that the sea water can be characterized as clean sea.
+Projekt / tema	00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	104
+Naslov	Ecological study of gas fields in the northern Adriatic 8. Concentration of oxygen and nutrient salts
+Autori	Stojanoski, Lambe ; Vukadin, Ilija
+Izvornik	Acta Adriatica (0001-5113) <strong>37</strong> (1996), 1/2; 109-113
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, stručni
+Ključne riječi	Sea water; oxygen; nitrogen salts; phosphates; silicates
+Sažetak	This paper gives a presentation of the concentration of oxygen and nutrient salts according to published data. The northern Adriatic and the area of the oil fields as well, is well aerated. Mainly because of the influence of the Po River, and other land factors, the northern Adriatic is slightly richer in nutrient salts than the central and southern Adriatic.
+Projekt / tema	00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	105
+Naslov	Enrichment and distribution of anionic detergents and phosphorus in the coastal waters of the eastern Adriatic                        <br/>(Enrichment and distribution of anionic detergents and phosphorus in the coastal waters of the Eastern Adriatic)
+Autori	Vukadin, Ilija ; Dujmov, Jozo ; Sučević, Perica ; Stojanoski, Lambe
+Izvornik	Fresenius environmental bulletin (1018-4619) <strong>6</strong> (1997), 1-2; 84-90
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Anionic detergents; phosphates; Eastern Adriatic Sea
+Sažetak	The paper presents long-term observation of anionic detergents and phosphates in waters of the Eastern Adriatic. Annual means of anionic detergents and phosphates have shown that anionic detergents values are considerably higher in the vicinity of Šibenik and Split than elsewhere and up to ten times comparing with open sea station. Higher phosphates concentrations at the same stations point to the strong impact of urban and industrial effluents on the receiving environment.
+Projekt / tema	00010104, 00010105
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	106
+Naslov	Heavy metals in sediments of the Kaštela Bay
+Autori	Bogner, Danijela ; Odžak, Nikša ; Juračić, Mladen ; Barić, Ante ; Tibljaš, Darko
+Vrsta, podvrsta i kategorija rada	Poglavlja u knjigama, -, znanstveni
+Knjiga	Water Pollution IV, Modelling, Measuring and Prediction
+Urednik/ci	Rajar, R. ; Brebbia, C.A.
+Izdavač	Computational Mechanics Publications
+Grad	Southampton, UK ; Boston, USA
+Godina	1997
+Raspon stranica	87-94
+ISBN	1-853-12470-2
+Ključne riječi	Teške kovine, sediment, granulometrijski i mineraloški sastav                                    <br/>(Heavy metals, sediments, granulometric and mineral composition)
+Sažetak	Six sediment samples from Kaštela Bay (Adriatic Sea) and 6 samples of source rocks around the bay have been taken in order to establish the dependence of heavy metal concentration on granulometric and mineral composition, on surface characteristics of the sediment, and on source rocks.The mineral composition of sediments is homogeneous. It reflects mostly the lithology of the surrounding area (carbonates and flysch). The concentration of Cd is greater in parent rocks than in the sediments, which points to the partial lithogenous origin of Cd. The anthrophogenic influence on Pb, Cu and ZN concentrations was identified in the all surface sediment samples.
+Projekt / tema	00010104, 119301, 119304
+Izvorni jezik	Engleski
+Znanstvena područja	Kemija, Geoznanosti
+new_DB_entry
+BibID 	107
+Naslov	Bioaccumulation of Cd and Pb in tuna fish Thunnus thynnus
+Autori	Odžak, Nikša ; Širović, Ana ; Tičina, Vjekoslav ; Zvonarić, Tomislav
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Proceeding of 14. International Symposium "Chemistry of the Mediterranean"                    / Branica, Marko - Zagreb : CIM ; IRB ; MZT, 1996, 77-78
+Skup	14. International Symposium "Chemistry of the Mediterranean"
+Mjesto i datum	Primošten, Hrvatska, 15-23.05.1996.
+Ključne riječi	Cd; Pb; bioaccumulation; tuna fish
+Sažetak	Research was concerned with the bluefin tuna from the mid-Adriatic. Correlation between the weight of the fish and accumulation of Pb and Cd to its tissues (muscle tissueses and liver, and gills)was investigated. Rather strong, positive correlation exists between accumulation of Pb toall tissues and the weight of the fish.Accumulation of Cd to tissues wasn't found as strongly correlated to the weight as Pb.Correlation was evident only in liver and near-head muscle tissue.Levels of Cd in liver and gills were aboveUNEP/FAO average, bur those values are not thought to be worrisome as it was expected for them to be found above the average obtained for all tissues. Values of Cd accumulated in muscle tissues were bellow UNEP/FAO average.
+Vrsta sudjelovanja	Ostalo
+Vrsta recenzije	Međunarodna recenzija
+Projekt / tema	00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	109
+Naslov	Mercury in the Fish from the eastern Adriatic
+Autori	Čulin, Sanja ; Zvonarić, Tomislav ; Odžak, Nikša
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Mercury as a Global Pollutant - Book of Abstracts                    / Ebinghaus, Ralf ; Petersen, Gerhard ; von Tumpling, Ute - Hamburg : GKSS-Forschungszentrum Geesthacht, Germany and ORNL, USA, 1996, 422-422
+Skup	IV. International Conference on Mercury as a Global Pollutant
+Mjesto i datum	Hamburg, Njemačka, 04-08.08.1996.
+Ključne riječi	Mercury; methylmercury; hake; red mullet; pandora; distribution
+Sažetak	The paper present results of the analyses of total and methyl-Hg  concentrations in some commercially important fish species:hake, red mullet and pandora from the nearshore areas and open waters of the eastern Adriatic.A comparison of obtained values with MPL, legally proposed in Croatia, showed that the Hg and MeHg in pandora from Split Channel and Kaštela Bay were twice the permissible levels.All the other species from all the other areas are out of the reach of anthropogenic pollution and may be used as human food.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Međunarodna recenzija
+Projekt / tema	00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	110
+Naslov	Površinski sedimenti i utjecaj njihovih fizičko-kemijskih svojstava na raspodjelu teških kovina u Kaštelanskom zaljevu                <br/>(Surface sediments and influence of their physico-chemical characteristics on the distribution of heavy metals in sediment of the Kaštela Bay)
+Autori	Bogner, Danijela
+Vrsta, podvrsta i kategorija rada	Ocjenski radovi, magistarski rad, -
+Fakulte	Prirodoslovno-matematički fakultet
+Mje	Zagreb
+Datum	27.06.
+Godina	1996
+Stranica	131
+Me	Juračić, Mladen
+Ključne riječi	Granulometrijski sastav; biogeni ostaci; tragovi kovina                                    <br/>(Granulometric composition; biogenic residue; trace metals)
+Sažetak	U radu je određena ovisnost razdiobe kovina u tragovima o granulometriji, mineralnom sastavu i površinskim svojstvima sedimenta, te o ishodišnom području.Ustanovljeno je da u Kaštelanskom zaljevu prevladava taloženje terigenog materijala, da je mineralni sastav jednoličan ali ovisan o ishodišnom području, kao i o položaju postaje. U površinskom sloju morskog sedimenta ustanovljen je antropogeni utjecaj na masene udjele žive, olova, bakra i cinka, dok je maseni udio kadmija bio povećan samo u industrijskom dijelu zaljeva. Jednolika raspodjela kroma, nikla i mangana ukazuje na njihovo terigeno podrijetlo.
+Projekt / tema	00010104, 119301
+Izvorni jezik	Hrvatski
+Znanstvena područja	Geoznanosti, Biologija
+new_DB_entry
+BibID 	111
+Naslov	A comparison of phytoplankton biomass estimators and their environmental correlates in the Mali Ston Bay (Southern Adriatic)
+Autori	Jasprica, Nenad ; Carić, Marina
+Izvornik	Marine Ecology : pubblicazioni della stazione zoologica di Napoli I (0173-9565) <strong>18</strong> (1997), 1; 35-50
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Phytoplankton biomass; environmental factors; stratification; mixing; Southern Adriatic
+Sažetak	Phytoplankton biomass estimators - total cell number (CN), total cell volume (CV), chlorophyll a (CHLa), phytoplankton organic carbon (PC), and their response to environmental variables, with a special emphasis on the veretical variability in the structure of the water column - were examined in the Mali Ston Bay (Southern Adriatic). Correlations among biomass estimators as well as with physical-chemical parameters varied according to hydrodynamic characteristics of the water column. The amount of CHLa per cell ranged from 0.28 - 0.6 x 10^-6 microg during stratification to 0.7 - 2.0 x 10^-6 microg during the mixing period. Most frequent values for PC/CHLa ratios and for CHLa/CV in mixed natural phytoplankton populations were 20 - 25 and 1 - 2, respectively.
+Projekt / tema	00010101, 00010104
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	112
+Naslov	The Meditarranean mussel (Mytilus galloprovincialis Lmk.) growth rate response to phytoplankton and microzooplankton population densities in the Mali Ston Bay (Southern Adriatic)
+Autori	Jasprica, Nenad ; Carić, Marina ; Bolotin, Jakša ; Rudenjak-Lukenda, Marina
+Izvornik	Periodicum biologorum (0031-5362) <strong>99</strong> (1997), 2; 255-264
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Mytilus galloprovincialis; growth rate; phytoplankton; microzooplankton; Mali Ston Bay
+Sažetak	The Mali Ston Bay (Southern Adriatic) is one of few areas where Mediterranean mussel reach the market size (60 mm) in two years. Scientific attempts at describing the relationship between mussel growth rate and food supply in the Mali Ston Bay have not been done in details yet. The purpose of this study was to examine the effects of phytoplankton and microzooplankton population densities and species compossition on the growth of the mussel Mytilus galloprovincialis. The mussels shell growth rate and flesh dry weight were investigated monthly at Bistrina Station (8 m maximum depth) from April 1984 to May 1985. In this study, the growth rate was evaluated at 1, 3 and 6 meters depth. Hydrography, nutrient concentrations, phytoplankton and microzooplankton were analysed monthly at the depth intervals of 1 meter. The best mussel shell growth rate and flesh dry weight were recorded in June-July, when an intensive development of microphytoplankton and nanophytoplankton population densities occured. Although according to statistical analysis, no significant difference in shell growth rates parameters existed between depths, highest average monthly shell growth rate was at 6 m depth for length and height, and at 3 meters for width. A qualitative composition of microphytoplankton species in the sea water as well as fecal pellets were similar. On the basis of the analysis of the fecal pellets mussels ingested diatoms, dinoflagellates, tintinnines, nauplii, small copepods and Bivalvia larvae.
+Projekt / tema	00010101, 00010104, 00010203
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	113
+Naslov	Microphytoplankton in the Strait of Otranto (eastern Mediterranean)
+Autori	Viličić, Damir ; Leder, Nenad ; Gržetić, Zvonko ; Jasprica, Nenad
+Izvornik	Marine Biology (0025-3162) <strong>123</strong> (1995), 3; 619-630
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Microphytoplankton; Strait of Otranto
+Sažetak	The Strait of Otranto is the connection between the Adriatic and Ioninan Seas. Low nutrient concentrations, high transparency, and low phytoplankton cell density and biomass reflect the oligotrophic character of the area. Enrichment of the euphotic layer with the nutrients is mainly due to discharge of Albanian nad Greek rivers, as well as mixing and upwelling in winter/early spring. Following phytoplankton bloom in April, a progressive decrease of phytoplankton cell density is due to the consuption of nutrients throughout the proceeding summer and autumn. Nitrogen was a strong limiting factor for phytoplankton growth in summer. Deep biomass maxima were detected in the 50-100 m layer and corresponded mostly to cells smaller than 20 microm. The eastern part of the strait is mostly influenced by the northerly inflowing current from the Ionian Sea, and the western part by the southerly outflowing current from the Adriatic Sea. This typical circulation could be disturbed by inertial oscillations in the current field, generated by the strong oscillating winds and cyclonic eddies. The type of circulation determined the distribution of thermohaline characteristic, abundance, biomass, as well as taxonomic composition of phytoplankton, across the strait. Ecological characteristics of the water masses on two sides of the strait were significantly different during the formation of a longitudinal thermohaline front in May 1990.
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	114
+Naslov	An estimation of the phytoplankton carbon biomass in the Mali Ston and Gruž bays (the Southern Adriatic)
+Autori	Jasprica, Nenad
+Izvornik	Acta Adriatica (0001-5113) <strong>34</strong> (1994), 1/2; 45-53
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Phytoplankton; carbon biomass; bays; Southern Adriatic
+Sažetak	A one year study of the Mali Ston and Gruž bays phytoplankton carbon biomass was performed from July 1984 - June 1985. Nano-, micro- and total phytoplankton carbon biomass were estimated bimonthly from the volume data, at the depth intervals of 1 m. In both bays nano-, micro- and total phytoplankton quantity maxima were recorded in the surface layer during a pronounced summer temperature and salinity vertical gradient. If compared to the literature data for the Mediterranean, maximum microphytoplankton carbon contents (51.7 microg C/l in the Mali Ston Bay and 316.6 microg C/l in the Gruž Bay) were relatively low.
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	115
+Naslov	Fine-scale distribution of dominant Chaetoceros species in the Gruž and Mali Ston Bays (Southern Adriatic)
+Autori	Jasprica, Nenad ; Carić, Marina
+Vrsta, podvrsta i kategorija rada	Radovi u zbornicima skupova, cjeloviti rad (in extenso), znanstveni
+Izvornik	Proceeeding of the 13th International Diatom Symposium                    / Marino, Donato ; Montresor, Marina - Bristol : Biopress Limited, 1995, 207-218
+Skup	13th International Diatom Symposium
+Mjesto i datum	Maratea, Italy, 1-7.09.1994.
+Ključne riječi	Diatoms; chaetoceros; distribution; bays; Southern Adriatic
+Sažetak	Seasonal and vertical distribution of Chaetoceros species were investigated in the Gruž and Mali Ston Bays with biweekly or monthly sampling during two one-year cycles (1984-1985 and 1988-1989). Twenty-eight species of Chaetoceros were identified. Chaetoceros compressus Lauder, Ch. danicus Cleve, Ch. decipiens Cleve and Ch. diversus Cleve constituted more than 80% of the microphytoplankton cells present during spring diatom blooms. Seasonal alternations between mixing and stratification of the water column in Mali Ston Bay affected Chaetoceros dynamics on a seasonal scale. Vertical distribution of dominant Chaetoceros spp. depended on the pycnocline position in the water column. Highest cell numbers of the dominant Chaetoceros in the water column was recorded above the pycnocline depth in the Mali Ston Bay, and in Gruž Bay at the pycnocline depth.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Međunarodna recenzija
+Projekt / tema	00010101, 00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	116
+Naslov	Fitoplankton u Malom i Velikom jezeru (otok Mljet, južni Jadran)                <br/>(Phytoplankton in the Malo and Veliko Jezero (Island of Mljet, Southern Adriatic))
+Autori	Jasprica, Nenad ; Viličić, Damir ; Carić, Marina ; Njire, Jakica
+Vrsta, podvrsta i kategorija rada	Radovi u zbornicima skupova, cjeloviti rad (in extenso), znanstveni
+Izvornik	Priopćenja sa Simpozija Prirodne značajke i društvena valorizacija otoka Mljeta                    / Durbešić, Paula ; Benović, Adam - Zagreb : Hrvatsko ekološko društvo, 1995, 453-463
+Skup	Simpozij Prirodne značajke i društvena valorizacija otoka Mljeta
+Mjesto i datum	Pomena, otok Mljet, Hrvatska, 4-10.09.1995.
+Ključne riječi	Fitoplankton; raspodjela; Mljet; južni Jadran                                    <br/>(Phytoplankton; distribution; Mljet; Southern Adriatic)
+Sažetak	Specifična fizičko-kemijska svojstva mljetskih jezera određuju vremensku i prostornu raspodjelu fitoplanktonskih populacija. Finu stratifikaciju jezera uzrokuju: 1) površinski dotok slatkih voda (ispiranje kopna) i 2) potpovršinski izvori (vrulje). Gustoće populacija mikrofitoplanktona u Malom i Velikom jezeru statistički se značajno razlikuju, ali ne postoji značajna razlika između Velikog jezera i obližnjeg mora. Također, utvrđene su razlike u sastavu fitoplanktonskih zajednica između Malog i Velikog jezera. Termohalina svojstva, taksonomski sastav, količina i prostorna raspodjela fitoplanktona pokazuju da je u Malom jezeru utjecaj otvorenog mora minimalan. Prema gustoći fitoplanktonskih populacija, jezera su prirodno slabo eutroficirani ekosistemi. Dobro su očuvani i ekološki uravnoteženi ekosistemi, vjerojatno osjetljivi na promjene, pa se zbog toga trebaju maksimalno zaštititi od antropogenog utjacaja.
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101, 00010102, 00010104
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	117
+Naslov	Eustarij rijeke Omble: "cvjetanje" fitoplanktona, eutrofikacija i zaštita                <br/>(The Ombla River Estuary: Phytoplankton "Blooming", Eutrophication and Protection)
+Autori	Viličić, Damir ; Jasprica, Nenad ; Carić, Marina
+Vrsta, podvrsta i kategorija rada	Radovi u zbornicima skupova, cjeloviti rad (in extenso), znanstveni
+Izvornik	Zbornik radova 1. hrvatske konferencije o vodama                    / Tropan, Ljudevit - Zagreb : Hrvatsko društvo za zaštitu voda i mora, 1995, 497-506
+Skup	1. hrvatska konferencija o vodama
+Mjesto i datum	Dubrovnik, Hrvatska, 24.-27.05.1995.
+Ključne riječi	Estuarij; eutrofikacija; fitoplankton; cvjetanje; zaštita prirode                                    <br/>(Estuary; eutrophication; phytoplankton; blooming; nature protection)
+Sažetak	Izvor rijeke Omble najvažniji je izvor pitke vode za grad Dubrovnik. Neposredno nakon izvora rijeka se ulijeva u more i tvori mali, stratificirani estuarij, koji je uz okolni krajolik poznat pod nazivom Rijeka dubrovačka. Slabo su poznata oceanografska i ekološka svojstva estuarija, pa bi buduća istraživanja trebala biti preduvjet za adekvatnu zaštitu i pravilno odlučivanje o urbanističkim zahvatima uz obale Rijeke dubrovačke. U radu je pokazano da u proljeće, u svibnju, smiruju se vremenske prilike, smanjuje se protok rijeke Omble, nastupa fizičko-kemijska stabilizacija vodenog stupca i javlja se cvjetanje fitoplanktona kao rezultat prethodne eutrofikacije. Estuarij kao i većina plitkih zaljeva duž naše obale, biološki su vrlo vrijedna područja čije prirodne resurse i genofond treba zaštititi na taj način da se u njima: 1) obale ne nasipavaju (zidaju), 2) ne ispuštaju otpadne vode, 3) spriječi buduća gradnja marina (koje bi trebalo graditi u već naseljenim uvalama s izgrađenim lukama, gdje je to moguće).
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101, 00010104
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	119
+Naslov	Distribution of planktonic diatom assemblages in Southern Adriatic and their relation to enviromental factors
+Autori	Jasprica, Nenad ; Carić, Marina
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Abstracts of the 14th International Diatom Symposium                    / Kobayasi, Hiromu -  : International Diatom Society, 1996, 38-38
+Skup	14th International Diatom Symposium
+Mjesto i datum	Tokyo, Japan, 02-08.09.1996.
+Ključne riječi	Diatoms; distribution; hydrography; nutrients; Southern Adriatic
+Sažetak	Seasonal and vertical distribution of planktonic diatoms were investigated at three stations in the southern Adriatic with montly sampling during 1988-1989. The stations were located in the Gruž Bay (Dubrovnik harbour), Mali Ston Bay (Usko) and in the open sea waters (P-100).
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Neobjavljeni rad
+Projekt / tema	00010101, 00010104
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	120
+Naslov	Rast dagnje (Mytilus galloprovincialis Lmk) u Malostonskom zaljevu = Growth rate of Mediterranean mussel (Mytilus galloprovincialis Lmk) in the Mali Ston Bay                <br/>(Growth rate of Mediterranean mussel (Mytilus galloprovincialis Lmk) in the Mali Ston Bay)
+Autori	Jasprica, Nenad ; Carić, Marina ; Bolotin, Jakša ; Lazar, Martin ; Rudenjak-Lukenda, Marina
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Zbornik sažetaka priopćenja Šestog kongresa biologa Hrvatske = Proceedings of Abstracts of the Papers of the Sixth Congress of Croatian Biologists                    / Huber, Đuro - Zagreb : Hrvatsko biološko društvo, 1997, 344-344
+Skup	Šesti kongres biologa Hrvatske
+Mjesto i datum	Opatija, Hrvatska, 22-27.09.1997.
+Ključne riječi	Mytilus galloprovincialis; rast; modeli; Malostonski zaljev                                    <br/>(Mytilus galloprovincialis; growth rate; models; Mali Ston Bay)
+Sažetak	U razdoblju od travnja 1984. do svibnja 1985. jednom mjesećno je praćen apsolutni i alometrijski rast jednogodišnje dagnje (Mytilus galloprovincialis Lmk) u uvali Bistrina na 1, 3 i 6 metara dubine. Od ukupno šest analiziranih modela rasta, eksponencijalna jednadžba se pokazala najprikladnijom za prikazivanje odnosa dužina/širina te dužina/debljina ljušture na svim istraživanim dubinama.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Neobjavljeni rad
+Projekt / tema	00010101, 00010104, 00010203
+Izvorni jezik	OTHER
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	122
+Naslov	14. međunarodni simpozij dijatomologa                <br/>(The 14th International Diatom Symposium)
+Autori	Jasprica, Nenad
+Izvornik	Priroda
+Vrsta, podvrsta	Ostale vrste radova, popularan rad
+Godina	1996
+Ključne riječi	Dijatomeje; 14. međunarodni simpozij dijatomologa                                    <br/>(Diatoms; 14th International Diatom Symposium)
+Sažetak	Sudionici simpozija najviše su se posvetili odnosu ekologije i taksonomije u istraživanju dijatomeja. Ekologija (u njezinu najširem smislu, uključujući biodiverzitet i fitogeografiju) i taksonomija dijatomeja međuzavisne su znanstvene discipline. Posebno su se sudionici simpozija posvetili problemu "rijetkih" vrsta dijatomeja, odnosno, opravdanosti uporabe tog pojma u modernoj ekologiji.
+Projekt / tema	00010101
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	123
+Naslov	Zašto more "cvjeta"?                <br/>(What is pyhtoplankton bloom?)
+Autori	Jasprica, Nenad
+Izvornik	Biološki list
+Vrsta, podvrsta	Ostale vrste radova, popularan rad
+Godina	1996
+Ključne riječi	Fitoplankton; "cvjetanje"                                    <br/>(Phytoplankton; "blooming")
+Sažetak	O "cvjetanju" mora u Jadranu pisano je u mnogim znanstvenim i popularnim časopisima. Nakupine sluzi u Jadranu zabilježene su u masovnom obliku više puta u prošlom i ovom stoljeću (1872, 1880, 1903, 1920 i 1939 godine). Sluzave nakupine proteklog desetljeća, poglavito u području sjevernog Jadrana, utvđene su 1988. i 1989. godine.
+Projekt / tema	00010101
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	125
+Naslov	Raspodjela hranjivih soli i fitoplanktona u uvali Bistrina (Malostonski zaljev) = Nutrient and phytoplankton distribution at the Bistrina Station (Mali Ston Bay)                <br/>(Nutrient and phytoplankton distribution at the Bistrina Station (Mali Ston Bay))
+Autori	Carić, Marina ; Jasprica, Nenad
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Zbornik sažetaka priopćenja Šestog kongresa biologa Hrvatske = Proceedings of Abstracts of the Papers of the Sixth Congress of Croatian Biologists                    / Huber, Đuro - Zagreb : Hrvatsko biološko društvo, 1997, 344-345
+Skup	Šesti kongres biologa Hrvatske
+Mjesto i datum	Opatija, Hrvatska, 22-26.09.1997.
+Ključne riječi	Hranjive soli; fitoplankton; raspodjela; Malostonski zaljev                                    <br/>(Nutrients; phytoplankton; distribution; Mali Ston Bay)
+Sažetak	U uvali Bistrina (8 metara najveće dubine) u unutarnjem dijelu Malostonskog zaljeva sakupljani su uzorci jednom mjesečno, od veljače 1988. do siječnja 1989. Cilj ovog rada bio je utvrditi raspodjelu hranjivih soli i fitoplanktona unutar vodenog stupca. Najveće koncentracije hranjivih soli (osim amonijevih soli) unutar cijelog vodenog stupca ustanovljene su u veljači dok su u preostalom dijelu godine visoke koncentracije hranjivih soli, uzrokovane dotokom slatke vode, bile najveće u sloju piknokline. Maksimum mikrofitoplanktona i nanofitoplanktona bio je u pridnenom sloju u ožujku i travnju.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Neobjavljeni rad
+Projekt / tema	00010101, 00010104
+Izvorni jezik	OTHER
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	132
+Naslov	Long-term production changes in the Adriatic
+Autori	Marasović, Ivona ; Grbec, Branka ; Morović, Mira
+Izvornik	Netherlands Journal of Sea Research (1385-1101) <strong>34</strong> (1995), 4; 267-273
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Eutrophication; primary production; long-term fluctuations; salinity; temperature; transparency; Adriatic Sea
+Sažetak	Long-term fluctuations and trends in the rate of primary production were observed in the middle Adriatic Sea. Variability in the production rate was caused by oceanographic and meteorological factors affecting the advection of the Mediterranean waters in the Adriatic on a long-term scale. Particular attention is given to a sudden and prolonged increase in primary production that started in 1978. This increase is related to the enhanced advection of the Mediterranean waters (richer in nutrients) into the Adriatic. Increased advection of Mediterranean waters to the Adriatic can be attributed to global climatic changes.
+Projekt / tema	00010101, 00010105
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents
+Znanstvena područja	Geoznanosti, Biologija
+new_DB_entry
+BibID 	136
+Naslov	Analysis of time series of planktonic communities in the Adriatic Sea : distinguishing between natural and man induced changes                        <br/>(Analysis of time series of planktonic communities in the Adriatic Sea: distinguishing between natural and man induced changes)
+Autori	Šolić, Mladen ; Krstulović, Nada ; Marasović, Ivona ; Baranović, Ana Marija ; Pucher-Petković, Tereza ; Vučetić, Tamara
+Izvornik	Oceanologica Acta (0399-1784) <strong>20</strong> (1997), 1; 131-143
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Time series; bacterioplankton; phytoplankton; zooplankton; Adriatic Sea; fluctuatuions
+Sažetak	Time series (&gt;20years) of bacterioplankton, phytoplankton and zooplankton abundances and phytoplankton production in the Adriatic Sea were analysed. Multivariate methods were used to extract the main patterns of year-to-year changes in abundances (Principal Component Analysis), and to discriminate between years and sites (Multidimensional Scaling). Increasing long-term trends were established for planktonic abundances and phytoplankton production in both coastal and open sea, natural factors (water exchange betwee the Mediterranean and Adriatic Seas, and temperature) were dominant in controlling year-to-year fluctuations of plankton. On the other hand, long-term fluctuations of plankton in the coastal area were chiefly controlled by man-induced factors.Thus, besides natural factors, the dominant pattern of planktonic fluctuation was correlated with the fluctuation of nutrients coming from the land as a result of human activities.
+Projekt / tema	00010101, 00010103
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	137
+Naslov	Environmental problems relating to aquaculture and fisheries
+Autori	Marasović, Ivona
+Izvornik	Public enterprise (0351-3564) <strong>15</strong> (1995), 1-4; 295-302
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, pregledni
+Ključne riječi	Harmful algal bloom; PSP; DSP; NSP; ASP; Adriatic Sea
+Sažetak	For the last fifteen years the harmful algal bloom (HAB) problem has become evident in the Adriatic, particulary in the northern Adriatic. Red tides have been common phenomena in the north-western Adriatic Sea and in Kaštela Bay (central Adriatic) since 1980. Potentially toxic species such as Dinophysis spp. and Alexandrium spp. have been found; the former for many years, the latter only since 1982 (northern Adriatic) and 1989 (Kaštela Bay). However, DSP toxic problems did not appear until the summer of 1989 (in the northern Adriatic) and 1995 (Kaštela Bay), whereas a PSP problem was recorded as early as summer of 1994 from a rather narrow area of wild shellfish settlement in the northern Adriatic.
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	138
+Naslov	Biological consequences of unusual weather conditions in the Adriatic in summer 1992
+Autori	Grbec, Branka ; Morović, Mira ; Marasović, Ivona
+Izvornik	Fresenius Environmental Bulletin (1018-4619) <strong>7</strong> (1998), 1-2; 14-17
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Sea temperature; Etesian wind; red-tide bloom; Gonyaulax polyedra; Kaštela Bay; Adriatic Sea
+Sažetak	Extremely high sea surface temperature was recorded along the eastern Adriatic coast in summer 1992. accompanied with bottom temperatures bellow the long term average. There are some evidences that in the Adriatic such thermal conditions caused the absence of the Gonyaulax polyedra red tide bloom. According to numerous papers, extraordinary wether conditions in Adriatic in 1992, may be related to the global disturbance over the Northern hemisphere.
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Indeksirano u	Current Contents , Web of Science Core Collection
+Znanstvena područja	Geoznanosti, Biologija
+new_DB_entry
+BibID 	140
+Naslov	Fish mortality related to bloom of Polykrikos schwartzi and Noctiluca scintilans
+Autori	Marasović, Ivona ; Ninčević Živana
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	6. EMIN-ar                    / Tatjana Bakran-Petricioli - Sali : Sali, 1997, 53-53
+Skup	6. EMIN-ar
+Mjesto i datum	Sali, Hrvatska, 02-06.04.1997.
+Ključne riječi	Fish mortality; red tide bloom; Polykrikos schwartzi; Noctiluca scintillans
+Sažetak	Mass kill of marine fauna was recorded from Kaštela Bay (eastern Adriatic coast) in September 1994. Mass kills of organisms in Kaštela Bay are relatively frequent and have occured repeatedly for the past fifteen years due to the autochtonous red tide bloom of Gonyaulax polyedra. The analysis of sea water samples collected nine days before the kill showed that regular red tide bloom of G. polyedra took place. However, during the kill period this organisms was not present in the samples. Only two heterotrophic species Polykrikos schwartzi and Noctiluca scintillans were found containing clearly visible cells of G. polyedra.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	141
+Naslov	Current problems and future research requirements for toxic algae in the central Adriatic
+Autori	Meštrović, Vedrana ; Orhanović, Stjepan ; Marasović Ivona ; Pavela-Vrančić, Maja
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	6. EMIN-ar                    / Bakran-Petricioli, Tatjana - Sali : Sali, 1997, 54-54
+Skup	6 .EMIN-ar
+Mjesto i datum	Sali, Hrvatska, 02-06.04.1997.
+Ključne riječi	Toxic algae; shellfish toxicity; okadaic acid; Central Adriatic; Phytoplankton toxins; DSP; PSP
+Sažetak	In response to favorable changes in their environment, certain algal species undergo a rapid population increase and may form visible patches on the surface reffered as the "red tide". These blooms may be either toxic or noxious, that is either producing specific toxins or causing anoxia through the decay process. Exeptional blooms of toxic phytoplankton species and their association with shellfish toxicity as the result of toxin accumulation in shellfish meat has been known for long time. Due to process of strong urbanization of coastal areas, inadeqate industrialization, tourism, intensive aqaculture and other anthropogenic influences provoking severe eutrophication, there is an increasing frequency, intensity, duration, and geographic spreading of outbreaks. Concern about toxic algal blooms has arisen in recent years becouse of their impact on public health, and on the economics of shellfish aqaculture. Poisoning by metabolites from marine algae has been classified into paralytic (PSP), neurotoxic (NSP) amnesic (ASP), and diarrheic (DSP) shellfish poisoning. The most important compounds of the DSP complex are okadaic acid (OA) and an increasing number of its derivatives named dinophysis toxins (DTX). Threath to public health has been aggravated by a recent discovey that OA is a highly selective inhibitor of protein phosphatases and a potent tumor promoting agent. Since phytoplankton toxins represents a serious threat to human health, as well to fish and shellfish farming, monitoring programs have been established in many countries. Investigation of the toxin structure, their biological function, and the biosynthetic pathway are also currently in progress. Kaštela bay is semienclosed bay, heavily polluted by land sources, both of domestic and industrial origin. Red tide events have been observed there regulary every summer since 1980, when it first occured in the Vranjic basin, the most threatened part of the Bay. Despite the presence of toxic algae (Gonyaulax polyedra and Alexandrium minutum) no toxic blooms has been recorded up to 1993, when the mouse bioassay analysis showed the presence of DSP toxins, thought in low concentration. Investigations have been carried out every summer since 1993, using the biological (mouse bioassay) and chemical (HPLC) methods. Preliminary studies in the Central Adriatic confirmed the presence of toxin producing species, thus implying the necessity of further investigations of the still unresolved questions. Due to lack of adequate equipment, we are not in the position to perform all necessary investigations, however we wish to highlight the existence of growing problem concerning the potential development of shellfish toxicity.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101, 177050
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	142
+Naslov	Toxicity of shellfish related to occurrence of new DSP toxin
+Autori	Marasović, Ivona ; Ninčević, Živana ; Pavela-Vrančić, Maja ; Orhanović, Stjepan
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Zbornik sažetaka priopćenja Šestog kongresa biologa Hrvatske = Proceedings of Abstracts of the Papers of the Sixth Congress of Croatian Biologists                    / Huber, Đuro - Zagreb : Hrvatsko biološko društvo, 1997, 141-142
+Skup	Šesti kongres biologa Hrvatske
+Mjesto i datum	Opatija, Hrvatska, 22-26.09.1997.
+Ključne riječi	Phytoplankton; harmful algae bloom; shellfish toxicity; red tides; DSP; DTX-2; Dinophysis sacculus
+Sažetak	Although harmful algal blooms (red tide, "mucillagine") have been present in the Adriatic Sea for almost thirty years, toxic blooms are a relatively new occurrence in this area. This phenomenon was first recorded in 1989 off the northwest coast of the North Adriatic, the dinoflagellate of ginus Dinophysis being the causative organism of diarrhetic shellfish poisoning (DSP). In this paper we present the first data substantiating the occurrence of Diarrhetic Shellfish Poisoning (DSP) in the central region of the Adriatic Sea (Kaštela bay), registered in the summer of 1995. Toxicity was established using the mouse bio-assay, however the results of the HPLC-directed analysis suggest the observed toxic effects are not associated with the common DSP toxins. The HPLC analysis has shown the presence of an unknown compound structurally related to DTX-2, the concentration of the respective substance being rather high in those samples exhibiting toxicity. In a simultaneously conducted analysis of the phytoplankton population special attention was dedicated to the species from the dinoflagellate group. The origin of mussel toxicity can be traced to Dinophysis sacculus, a suspect toxic species.
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101, 177050
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	143
+Naslov	Size fractionated biomass of phytoplankton and abundance of phototrophic picoplankton in Adriatic sea
+Autori	Ninčević, Živana ; Marasović, Ivona
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, znanstveni
+Izvornik	Zbornik sažetaka priopćenja Šestog kongresa biologa Hrvatske = Proceedings of Abstracts of the Papers of the Sixth Congress of Croatian Biologists                    / Huber, Đuro - Zagreb : Hrvatsko biološko društvo, 1997, 327-328
+Skup	Šesti Kongres biologa Hrvatske
+Mjesto i datum	Opatija, Hrvatska, 22-26.09.1997.
+Ključne riječi	Veličinske kateorije fitoplankton; biomasa; Jadransko more Jonsko more                                    <br/>(Size fractionated phytoplankton; biomass; Adriatic sea; Ionian sea)
+Sažetak	Vertikalna i prostorna raspodjela različitih veličinskih kategorija fitoplanktonske biomase istraživana je u otvorenim vodama Jadranskog mora i u Jonskom moru u ožujku 1997. godine. Uzorkovanja su obavljena na tri transekta u Jadranskom moru uključujući Otranska vrata, te na jednoj postaji u Jonskom moru.
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	144
+Naslov	Vertikalna raspodjela fitoplanktona u Rogozničkom jezeru = Vertical distribution of phytoplankton in Lake Rogoznica                <br/>(Vertical distribution of phytoplankton in Lake Rogoznica)
+Autori	Crnčević, Marija ; Viličić, Damir ; Marasović, Ivona ; Kušpilić Grozdan
+Vrsta, podvrsta i kategorija rada	Sažeci sa skupova, sažetak, stručni
+Izvornik	Zbornik sažetaka priopćenja Šestog kongresa biologa Hrvatske = Proceedings of Abstracts of the Papers of the Sixth Congress of Croatian Biologists                    / Huber, Đuro - Zagreb : Hrvatsko biološko društvo, 1997, 351-352
+Skup	Kongres biologa Hrvatske (6 ; 1997)
+Mjesto i datum	Opatija, Hrvatska, 22.-26.09.1997.
+Ključne riječi	Fitoplankton; sumporovodik; anoksija; Rogozničko jezero                                    <br/>(Phytoplankton; sulphide; anoxic bottom layer; Lake Rogoznica)
+Sažetak	Rogozničko jezero je malo slano jezero, koje je povezano s obližnjim morem kroz pukotine u kršu, a nalazi se kod Rogoznice u srednjoj Dalmaciji. Većim dijelom godine to je stratificirani ekosustav s dobro izraženom termoklinom, haloklinom i kemoklinom u kojem je česta pridnena anoksija uz stvaranje sumporovodika. U takvim uvjetima utvrđena je zanimljiva vertikalna raspodjela fitoplanktona. Najčešće je utvrđeno podpovršinsko nakupljanje fitoplanktona ; uz haloklinu, termoklinu i povremeno uz granicu između površinskog aerobnog i dubljeg anaerobnog sloja.
+Vrsta sudjelovanja	Poster
+Vrsta recenzije	Domaća recenzija
+Projekt / tema	00010101, 119121
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	145
+Naslov	The seasonal and horizontal distribution of the biomass of epiplanktonic chaetognaths in the Adriatic Sea
+Autori	Batistić, Mirna ; Kršinić, Frano ; Gamulin, Tomo
+Izvornik	Periodicum biologorum (0031-5362) <strong>99</strong> (1997), 2; 247-254
+Vrsta, podvrsta i kategorija rada	Radovi u časopisima, članak, znanstveni
+Ključne riječi	Zooplankton; chaetognaths; Adriatic Sea
+Sažetak	On the basis of samples collected on the RV "Andrija Mohorovičić" from Otranto to the Bay of Venice during four cruises (1974-1976), the seasonal and horizontal distributions of the epiplanktonic chaetognaths biomass were determined for the first time in the Adriatic Sea. The greatest average value of 6.07 +- 3.79 mg m^3 was recorded during the September - October (1974) cruise with a marked domination of 82.0% of the species Sagitta inflata. At the same time epiplanktonic chaetognaths contributed to an average of 31.3% to the total net zooplankton biomass. Therefore, the chaetognaths may be considered to be of an outstanding importance for the secondary production of the North Adriatic and the western part of the Mid and South Adriatic.
+Projekt / tema	0001001, 00010102
+Izvorni jezik	Engleski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	147
+Naslov	Uspravna raspodjela zooplanktona u Velikom jezeru na otoku Mljetu.                <br/>(Tke vertical distribution of zooplankton in Veliko jezero on the island Mljet)
+Autori	Kršinić, Frano
+Vrsta, podvrsta i kategorija rada	Radovi u zbornicima skupova, cjeloviti rad (in extenso), znanstveni
+Izvornik	Simpozij Prirodne značajke i društvena valorizacija otoka Mljeta                    / Durbešić, Paula ; Benović, Adam - Zagreb : Hrvatsko ekološko društvo, 1995, 475-481
+Skup	Simpozij Prirodne značajke i društvena valorizacija otoka Mljeta
+Mjesto i datum	Pomena, Hrvatska, 4.-10.09.1995
+Ključne riječi	Zooplankton; vertikalna raspodjela; Jadransko more                                    <br/>(Zooplankton; vertical distribution; Adriatic Sea)
+Sažetak	U ovom radu iznosimo preliminarne rezultate istraživanja vertikalne mikrodistribucije ulupnog zooplanktona, za vrijeme terenskih istraživanja 28. lipnja i 3. srpnja 1990. Zahvaljujući novom tipu lovnog alata "Adriatic", volumena uzorka 200 litara, te plaštom od planktonske svile veličine okca 20 mm, prvi put smo analizirali glavninu taksonomskih grupa i veličinskih kategorija u istom uzorku. Za sve zooplanktonte zabilježena je vrlo izražena vertikalna stratifikacija s jasno istaknutim centrima najveće gustoće populacije. Naša su istraživanja potvrdila razliku u vertikalnoj raspodjeli odraslih kopepoda i njihovih razvojnih stadija, nauplija i kopepodita. U površinskom sloju izrazito dominiraju kopepodski naupliji s vrijednostima do 166400/m3. Prema dnu se u stepeničastoj formi izmjenjuju najveće vrijednosti gustoće populacije ; hetognati na 10m, Oithona nana na 15 m, Oithona kopepoditi s visokim vrijednostima, od 19840 /m3 na 20 m dubine. U istom sloju je glavnina populacije ličinki gastropoda. Između 25 i 35 m su utvrđene maksimalne vrijednosti za vrste Oithona helgolandica, Pseudocalanus elongatus, Limacina trochiformis te ličinke bivalvia. Pri dnu dominiraju kopepoditi i odrasli kalanoidni kopepoditi te tintinini.
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Neobjavljeni rad
+Projekt / tema	00010102
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
+BibID 	148
+Naslov	Mikrozooplankton Mljetskih jezera                <br/>(The microzooplankton in the sea waters lakes on the island Mljet)
+Autori	Njire, Jakica ; Kršinić, Frano ; Mušin, Damir
+Vrsta, podvrsta i kategorija rada	Radovi u zbornicima skupova, cjeloviti rad (in extenso), znanstveni
+Izvornik	Simpozij Prirodne značajke i društvena valorizacija otoka Mljeta                    / Durbešić, Paula ; Benović, Adam -  : Hrvatsko ekološko društvo, 1995, 465-474
+Skup	Simpozij Prirodne značajke i društvena valorizacija otoka Mljeta
+Mjesto i datum	Pomena, Hrvatska, 4.-10.09.1995
+Ključne riječi	Mikrozooplankton; Jadransko more                                    <br/>(Microzooplankton; Adriatic Sea)
+Sažetak	Istraživanja mikrozooplanktona na postajama u Velikom jezeru, Malom jezeru i uvali Gonoturska na otoku Mljetu obavljena su u razdoblju kolovoz 1985. - svibanj 1986., pomoću Van Dorn-ovog crpca sadržine 5 litara u 8 slojeva od površine do dna. U radu se iznose prvi rezultati kvalitativno-kvantitativnog sastava svih skupina mikrozooplanktona. Tijekom istraživanja protozoa svojom brojnošću nisu imali veći kvantitativni značaj u ukupnom mikrozooplanktonu, osim u ožujku 1986. nelorikatni cilijati na postaji Malo jezero i tintinini u uvali Gonoturska. Naupliji, kao najbrojniji organizmi, i mali kopepodi najveći udio u ukupnom mikrozooplanktonu imaju tijekom kolovoza i rujna 1985. u oba jezera. Ostali metazoi su od kvantitativne važnosti samo u Malom jezeru.
+Vrsta sudjelovanja	Predavanje
+Vrsta recenzije	Neobjavljeni rad
+Projekt / tema	00010102
+Izvorni jezik	Hrvatski
+Znanstvena područja	Biologija
+new_DB_entry
