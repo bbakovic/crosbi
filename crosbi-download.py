@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import urllib2, codecs, re, time
 broj_krivih = 0
 
+
 zapis = codecs.open("cro18.txt", 'w', 'utf-8')
 for a in range(850001 , 900001):
     try:
