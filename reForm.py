@@ -20,10 +20,14 @@ def reformat(no):
                 value = '[' + value.replace('; ', '","') + ']'
             if key == '"Projekt_/_tema"' and ',' in value:
                 value = '[' + value.replace(', ', '","') + ']'
+            if key == '"Znanstvena_područja"' and ',' in value.replace('stvo, na','stvo_na').replace('stvo, ra','stvo_ra'):
+                value = '[' + value.replace('stvo, na','stvo_na').replace('stvo, ra','stvo_ra').replace(', ', '","') + ']'
             inp2 += key + ':' + value.replace('<strong>', '').replace('</strong>', '').replace('<br/>', '//') + ',\n'
+
         inp2 += '}\n'
         inp2 = inp2.replace(',\n}', '\n}')
+        inp2 = inp2.replace('Rudarstvo, naf','Rudarstvo_naf').replace('Zrakoplovstvo, rak','Zrakoplovstvo_rak')
         out.write(str(inp2))
 
-
-reformat(18)
+for a in range(1,19):
+    reformat(a)
