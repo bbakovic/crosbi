@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
-import urllib2, codecs, re, operator, pymongo
+import urllib2, codecs, re, time
 broj_krivih = 0
-zapis = codecs.open("cro1.txt", 'w', 'utf-8')
-for a in range(99, 150):
+
+zapis = codecs.open("cro18.txt", 'w', 'utf-8')
+for a in range(850001 , 900001):
     try:
         response = urllib2.urlopen("http://beta.bib.irb.hr/"+str(a))
         soup = BeautifulSoup(response, "lxml")
@@ -12,13 +13,15 @@ for a in range(99, 150):
             zapis.write("BibID \t" + str(a) + '\n')
             for x in bib2:
                 tag = x.find('strong')
+                tag_f=str(tag).lstrip("<strong>").rstrip("</strong>")
                 text = re.findall("br/>(.+?)</p", str(x).replace('\n', ''))
-                zapis.write(str(tag).lstrip("<strong>").rstrip("</strong>")+'\t'+str(text[0]).strip()+'\n')
+                if len(text) > 0:
+                    text_f=str(text[0]).strip()
+                    zapis.write(tag_f+'\t'+text_f+'\n')
             zapis.write("new_DB_entry\n")
         except AttributeError:
             broj_krivih += 1
     except urllib2.HTTPError, error:
         contents = error.read()
-
-
-
+    if (a % 1000)==0:
+        print a, time.strftime('%X %x %Z')
